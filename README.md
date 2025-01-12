@@ -1,0 +1,1 @@
+This repository demonstrates a common React Native error related to the deprecation of the `componentWillMount` lifecycle method and provides a solution using `useEffect`. The `bug.js` file shows the problematic code, while `bugSolution.js` provides the corrected version.
