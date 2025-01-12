@@ -1,0 +1,1 @@
+This error occurs when you are using a library that uses the deprecated `componentWillMount` lifecycle method.  This method is removed in newer versions of React Native.  Consider using `useEffect` instead.
